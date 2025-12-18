@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ash8389](https://github.com/Ash8389)
 
-- 💬 Ask me about **C, C++, Kotlin**
+- 💬 Ask me about **C, C++, JAVA**
 
 - 📫 How to reach me **jhaashish3101@gmail.com**
 
