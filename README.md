@@ -77,11 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ash8389&show_icons=true&theme=default&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ash8389&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash8389&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash8389&layout=compact&langs_count=8" />
 </p>
 
 ---
