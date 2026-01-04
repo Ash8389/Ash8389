@@ -1,28 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ashish Jha</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashish Kumar Jha</h1>
+<h3 align="center">Java Backend Developer | Android Enthusiast | SDE-1 Aspirant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash8389&label=Profile%20views&color=0e75b6&style=flat" alt="ash8389" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash8389" alt="ash8389" /></a> </p>
-
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ash8389](https://github.com/Ash8389)
-
-- 💬 Ask me about **C, C++, JAVA**
-
-- 📫 How to reach me **jhaashish3101@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jhaashish270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhaashish270" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashishjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishjha" height="30" width="40" /></a>
-<a href="https://fb.com/ashish jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish jha" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Ash8389"><img src="https://komarev.com/ghpvc/?username=ash8389&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash8389&show_icons=true&locale=en&layout=compact" alt="ash8389" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash8389&show_icons=true&locale=en" alt="ash8389" /></p>
+- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 💻 **Java Backend Developer** with strong fundamentals in Spring Boot & REST APIs
+- 📱 Android developer, currently exploring **Jetpack Compose**
+- 🧠 Passionate about **clean architecture, scalability, and problem-solving**
+- 🏆 Active competitive programmer with solid DSA experience
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Java | C++ | C | Python | SQL | Kotlin
+
+### **Backend & Frameworks**
+- Spring Boot | Spring MVC | Spring REST
+- Hibernate | JPA
+- RESTful APIs | Pagination | Transactions
+
+### **Databases**
+- MySQL | MongoDB
+
+### **Tools & Platforms**
+- Git | Maven | Swagger (OpenAPI)
+- Android Studio | IntelliJ IDEA
+
+---
+
+## 📂 Projects
+
+### 🔹 Job Portal Backend API
+**Tech:** Spring Boot, MongoDB, Swagger  
+- Designed RESTful APIs with full CRUD operations  
+- Implemented pagination & sorting using Spring Data `Pageable`  
+- Built custom auto-increment sequence using MongoDB `findAndModify`  
+- Developed bulk insert APIs for performance optimization  
+- Followed clean layered architecture (Controller–Service–Repository)
+
+### 🔹 Student Management System
+**Tech:** Spring Boot, Spring Data JPA, MySQL  
+- Built REST APIs for managing student records  
+- Implemented transactional service layer  
+- Designed entity relationships using JPA annotations  
+- Used JPQL and derived query methods
+
+---
+
+## 💼 Experience
+
+### Web Development Intern — *FixFin Technologies*
+**June 2024 – September 2024**
+- Developed responsive UI using HTML, CSS, JavaScript, and React  
+- Integrated frontend with backend APIs  
+- Worked with SQL databases for data-driven features  
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+- ✅ **LeetCode:** 230+ problems (Rating: 1559)  
+- ✅ **GeeksforGeeks:** 300+ problems  
+- ✅ **Codeforces:** Pupil (Rating: 1327)  
+- ✅ **CodeChef:** 2⭐ (Rating: 1514)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ash8389&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash8389&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: **jhaashish270@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/ashish-jha-0344a4243](https://linkedin.com/in/ashish-jha-0344a4243)
+- 🧑‍💻 GitHub: [github.com/Ash8389](https://github.com/Ash8389)
+- 🧠 LeetCode: [leetcode.com/u/ashish8389](https://leetcode.com/u/ashish8389)
+
+---
+
+⭐ *Always open to backend, Android, and SDE-1 opportunities.*
